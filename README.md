@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at Lovely Professional University. 
+👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University. 
 
 👩‍💻• My technical skills are primarily in Programming through C++, Python and a huge interest in competitive programming,data analysis and Machine Learning
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ## Contact Me ☎
  -📧 Mail me on [Gmail](mailto:gtwinkle132@gmail.com)
  -🔗 Connect me on [Linkedin](https://www.linkedin.com/in/twinkle132/)
-<!-- -💖 Visit my [Website](https:)-->
  -🔗 Connect me on [Twitter](https://twitter.com/Twinkletwiligh3)
+ <!-- -💖 Visit my [Website](https:)-->
 
 
 
