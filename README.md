@@ -2,8 +2,7 @@
 
 <!--
 **Twinkle0799/Twinkle0799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University. 
 
@@ -21,11 +22,14 @@ Here are some ideas to get you started:
 
 👩‍💻• Open Source Contributor
 
-## Contact Me ☎
- -📧 Mail me on [Gmail](mailto:gtwinkle132@gmail.com)
- -🔗 Connect me on [Linkedin](https://www.linkedin.com/in/twinkle132/)
- -🔗 Connect me on [Twitter](https://twitter.com/Twinkletwiligh3)
- <!-- -💖 Visit my [Website](https:)-->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> Connect With Me On -</b></em>
+
+ [![Linkedin: Twinkle Gupta](https://img.shields.io/badge/-Twinkle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twinkle132/)](https://www.linkedin.com/in/twinkle132/)
+ [![Twitter: Me_Twi](https://img.shields.io/twitter/follow/Me_Twi?style=social)](https://twitter.com/Twinkletwiligh3)
+[![GitHub: Twinkle0799](https://img.shields.io/github/followers/Twinkle?label=follow&style=social)](https://github.com/Twinkle0799)
+
+
 
 
 
