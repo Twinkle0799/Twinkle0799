@@ -18,7 +18,7 @@
 
 👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University. 
 
-👩‍💻• My technical skills are primarily in Programming through C++, Python and a huge interest in competitive programming,data analysis and Machine Learning
+👩‍💻• My technical skills are primarily in Programming through C++, Python and a huge interest in competitive programming,Machine Learning and web development
 
 👩‍💻• Open Source Contributor
 
