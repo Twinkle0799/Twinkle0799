@@ -16,7 +16,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University.
+👩‍🎓 I'm a Pre-final year student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University.
 - 🌱 I’m currently doing projects related to web development.
 - 💬 Ask me about anything, I am happy to help.
 
