@@ -16,11 +16,21 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University. 
+👩‍🎓 I'm a Pre-final Year Student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University.
+- 🌱 I’m currently doing projects related to web development.
+- 💬 Ask me about anything, I am happy to help.
 
-👩‍💻• My technical skills are primarily in Programming through C++, Python and a huge interest in competitive programming,Machine Learning and web development
+📊 **My Skills:**
+- Language: C++ for competitive programming,Python for Machine learning , Javascript for Scripting
+- Framework: Django
+- Libraries: Numpy,Pandas,Matplotlib,Seaborn,SKikit-learn
+- OS: Linux
+
+
 
 👩‍💻• Open Source Contributor
+<!--<h3 align="center">✨ My Coding Profiles ✨</h3>-->
+
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> Connect With Me On -</b></em>
