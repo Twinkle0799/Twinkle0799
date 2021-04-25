@@ -16,8 +16,10 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-👩‍🎓 I'm a Pre-final year student currently undertaking a Bachelors's degree in Computer Science and Engineering at Lovely Professional University.
-- 🌱 I’m currently Learning  web development.
+- 🎓 I'm a CSE UG Student!.
+- 🌱 I’m currently Learning  ReactJS .
+- 🤝 I’m looking to collaborate on Web Development(React) and machine learning projects
+- ❤️ Naruto fan!(Dattebayo!)
 - 💬 Ask me about anything, I am happy to help.
 - :mailbox: Reach Me Out: <br>
 [![Linkedin: Twinkle Gupta](https://img.shields.io/badge/-Twinkle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twinkle132/)](https://www.linkedin.com/in/twinkle132/)
@@ -31,7 +33,7 @@
 <!-- 📊 **My Skills:**
 - Language: C++ for competitive programming,Python for Machine learning , Javascript for Scripting
 - Framework: Django
-- Libraries: Numpy,Pandas,Matplotlib,Seaborn,SKikit-learn
+- Libraries: (Numpy,Pandas,Matplotlib,Seaborn,SKikit-learn) ,ReactJS
 - OS: Linux-->
 
 
@@ -51,5 +53,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" /></p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true)
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true) -->
