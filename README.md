@@ -17,15 +17,16 @@
 
 
 - 🎓 I'm a CSE UG Student!.
-- 🌱 I’m currently Learning  ReactJS .
+- 🌱 I’m currently Learning  ReactJS<img src="https://user-images.githubusercontent.com/22225821/99891807-bd4cdd80-2c4c-11eb-9f19-244a55bbaf48.png" alt="Avatar React" border="0" width="30">
 - 🤝 I’m looking to collaborate on Web Development(React) and machine learning projects
-- ❤️ Naruto fan!(Dattebayo!)
+- ❤️ Naruto fan <img src="https://user-images.githubusercontent.com/22225821/99891010-119f8f80-2c44-11eb-96ec-5fb56fdf05b3.png" alt="Avatar Konoha" border="0" width="15"> (Dattebayo!)
 - 💬 Ask me about anything, I am happy to help.
-- :mailbox: Reach Me Out: <br>
+- 📫 How to reach me? **see links below** <br>
 [![Linkedin: Twinkle Gupta](https://img.shields.io/badge/-Twinkle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twinkle132/)](https://www.linkedin.com/in/twinkle132/)
  [![Twitter: Me_Twi](https://img.shields.io/twitter/follow/Me_Twi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Twinkletwiligh3)](https://twitter.com/Twinkletwiligh3)
 [![GitHub: Twinkle0799](https://img.shields.io/github/followers/Twinkle?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Twinkle0799)
 &nbsp;<a href="mailto:gtwinkle132@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:5px"></a>
+
 
 
 
@@ -44,7 +45,10 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="38" style="vertical-align:top; margin:0px">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c++1.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/css.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/html.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/js.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/sql.png" alt="mysql" width="40" height="40"/> </a>   </p>
 
-
+<details>
+  <summary>:fire: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Twinkle0799&show_icons=true&hide_border=true" />
+</details>
 
 
 
