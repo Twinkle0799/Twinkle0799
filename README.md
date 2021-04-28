@@ -57,10 +57,10 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" />
-<a href="https://github.com/Twinkle0799">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />
-</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&theme=monokai-metallian&hide_border=true" alt="Twinkle0799" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />
+
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true) -->
