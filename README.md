@@ -1,4 +1,4 @@
-## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Twinkle         <img align='right' src="https://komarev.com/ghpvc/?username=Twinke0799&label=Profile%20views&color=0e75b6&style=flat" alt="Twinkle0799" /> </p>
+## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <a href="https://www.linkedin.com/in/twinkle132/">I'm Twinkle</a> :woman_technologist: <img align='right' src="https://komarev.com/ghpvc/?username=Twinke0799&label=Profile%20views&color=0e75b6&style=flat" alt="Twinkle0799" /> </p>
 
 <!--
 **Twinkle0799/Twinkle0799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,11 @@
 
 - 🎓 I'm a CSE UG Student!.
 - 🌱 I’m currently Learning  ReactJS<img src="https://user-images.githubusercontent.com/22225821/99891807-bd4cdd80-2c4c-11eb-9f19-244a55bbaf48.png" alt="Avatar React" border="0" width="30">
-- 🤝 I’m looking to collaborate on Web Development(React) and machine learning projects
+- 🤔 I’m looking for help with Data Structures and Algorithms.
+- 🤝 I’m looking to collaborate on Web Development(React) Projects
 - ❤️ Naruto fan <img src="https://user-images.githubusercontent.com/22225821/99891010-119f8f80-2c44-11eb-96ec-5fb56fdf05b3.png" alt="Avatar Konoha" border="0" width="15"> (Dattebayo!)
-- 💬 Ask me about anything, I am happy to help.
+- ⚡ Fun fact: In my free time, you'll find me listening music or watching some series.
+- 💬 I love to learn new things and always ready to help others.
 - 📫 How to reach me? **see links below** <br>
 [![Linkedin: Twinkle Gupta](https://img.shields.io/badge/-Twinkle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twinkle132/)](https://www.linkedin.com/in/twinkle132/)
  [![Twitter: Me_Twi](https://img.shields.io/twitter/follow/Me_Twi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Twinkletwiligh3)](https://twitter.com/Twinkletwiligh3)
@@ -55,7 +57,10 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" /><br>
+<a href="https://github.com/Twinkle0799">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" align="right"/>
+</a>
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true) -->
