@@ -57,7 +57,7 @@
 
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" /><br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&" alt="Twinkle0799" />
 <a href="https://github.com/Twinkle0799">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" align="right"/>
 </a>
