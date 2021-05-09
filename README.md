@@ -57,9 +57,14 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&theme=monokai-metallian&hide_border=true" alt="Twinkle0799" />
+<details>
+ <summary>:zap: Streaks</summary>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&theme=monokai-metallian&show_icons=true&hide_border=true" alt="Twinkle0799" /></details>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />
+<details>
+ <summary>:trident: Most Used Languages</summary>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />
+</details>
 
 
 <!--
