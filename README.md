@@ -55,17 +55,15 @@
 
 
 
-
-
 <details>
- <summary>:zap: Streaks</summary>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&theme=monokai-metallian&show_icons=true&hide_border=true" alt="Twinkle0799" /></details>
-
-<details>
- <summary>:trident: Most Used Languages</summary>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />
+ <summary>:trident: Typeracer Scoreboard</summary>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />-->
+ <a href="https://data.typeracer.com/pit/profile?user=sirius_07&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sirius_07" border="1" alt="TypeRacer.com scorecard for user sirius_07"/></a>
 </details>
 
+
+
+ <p align='center'><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkle0799&theme=monokai-metallian&show_icons=true&hide_border=true" alt="Twinkle0799" /></p>
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true) -->
