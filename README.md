@@ -55,11 +55,11 @@
 
 
 
-<details>
+<!--<details>
  <summary>:trident: Typeracer Scoreboard</summary>
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle0799&layout=compact&hide=html,C&langs_count=6" />-->
- <a href="https://data.typeracer.com/pit/profile?user=sirius_07&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sirius_07" border="1" alt="TypeRacer.com scorecard for user sirius_07"/></a>
-</details>
+ <!--<a href="https://data.typeracer.com/pit/profile?user=sirius_07&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sirius_07" border="1" alt="TypeRacer.com scorecard for user sirius_07"/></a>
+</details>-->
 
 
 
