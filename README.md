@@ -70,3 +70,4 @@
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31dp3fruaxumf2wxtbagk5eqps4i&redirect=true) -->
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Twinkle0799&hide_border=true&area=true&point=transparent">
