@@ -1,4 +1,7 @@
 ## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <a href="https://www.linkedin.com/in/twinkle132/">I'm Twinkle</a> :woman_technologist: <img align='right' src="https://komarev.com/ghpvc/?username=Twinke0799&label=Profile%20views&color=0e75b6&style=flat" alt="Twinkle0799" /> </p>
+<p align="center">
+ <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Ninja+Developer+One+Day+"></a>
+</p> 
 
 <!--
 **Twinkle0799/Twinkle0799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +19,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-- 🎓 I'm a CSE UG Student!.
+- 🎓 Senior Year CSE UG Student!.
 - 🌱 I’m currently Learning  ReactJS<img src="https://user-images.githubusercontent.com/22225821/99891807-bd4cdd80-2c4c-11eb-9f19-244a55bbaf48.png" alt="Avatar React" border="0" width="30">
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 🤝 I’m looking to collaborate on Web Development(React) Projects
